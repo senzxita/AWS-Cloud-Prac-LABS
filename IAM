@@ -1,0 +1,4 @@
+# Creating IAM Users and Adding the Users into IAM Groups
+- Login to AWS Management Console
+- On the left handside of the screen, click on **Services**, scroll down and select *IAM* under **Security, Identity and Compliance** category
+
