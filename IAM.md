@@ -70,3 +70,4 @@
 
 ![image](https://user-images.githubusercontent.com/20463821/120114839-eb215a80-c178-11eb-9a58-295e6b322b55.png)
 
+Now the IAM users and IAM groups have been created, IAM users have been added to different IAM groups, and policies have been attached to those groups.
